@@ -45,6 +45,7 @@ The Titanic dataset (`train.csv`) consists of the following columns:
 - Matplotlib
 - Seaborn
 - scikit-learn (for splitting data and performance metrics)
-##Results
+
+## Results
 -Accuracy: The model achieves an accuracy of approximately 72.07% on the test set.
 -Loss Visualization: The loss is plotted to observe the model’s convergence and optimization during training.
